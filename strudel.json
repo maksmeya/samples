@@ -1,0 +1,8 @@
+{
+  "_base": "https://raw.githubusercontent.com/maksmeya/samples/main/",
+  "breaks": [
+    "breaks/break1.wav",
+    "breaks/break2.wav",
+    "breaks/break3.wav"
+  ]
+}
